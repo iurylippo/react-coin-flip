@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-coin-flip/static/css/main.eb119d7f.chunk.css",
+    "main.js": "/react-coin-flip/static/js/main.2eb41c48.chunk.js",
+    "main.js.map": "/react-coin-flip/static/js/main.2eb41c48.chunk.js.map",
+    "runtime-main.js": "/react-coin-flip/static/js/runtime-main.a9a4575d.js",
+    "runtime-main.js.map": "/react-coin-flip/static/js/runtime-main.a9a4575d.js.map",
+    "static/js/2.592267b4.chunk.js": "/react-coin-flip/static/js/2.592267b4.chunk.js",
+    "static/js/2.592267b4.chunk.js.map": "/react-coin-flip/static/js/2.592267b4.chunk.js.map",
+    "index.html": "/react-coin-flip/index.html",
+    "precache-manifest.5275b4dc0b74e4ebd5943f79fe3fa380.js": "/react-coin-flip/precache-manifest.5275b4dc0b74e4ebd5943f79fe3fa380.js",
+    "service-worker.js": "/react-coin-flip/service-worker.js",
+    "static/css/main.eb119d7f.chunk.css.map": "/react-coin-flip/static/css/main.eb119d7f.chunk.css.map",
+    "static/media/heads.jpg": "/react-coin-flip/static/media/heads.99a10729.jpg",
+    "static/media/tails.jpg": "/react-coin-flip/static/media/tails.79f3cbf9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9a4575d.js",
+    "static/js/2.592267b4.chunk.js",
+    "static/css/main.eb119d7f.chunk.css",
+    "static/js/main.2eb41c48.chunk.js"
+  ]
+}
